@@ -1,0 +1,62 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(https://static.wikia.nocookie.net/reichiquita/images/b/b5/Site-background-light/revision/latest?cb=20210720125122&path-prefix=es);
+    background-color: violet;
+    background-attachment: fixed;
+}
+header{
+    width: 100%;
+    background-color: lightseagreen;
+    position: fixed;
+    padding: 10px;
+    color: whitesmoke;
+}
+#principal{
+    width: 60%;
+    padding-top: 70px;
+    text-align: left;
+    background-color: white;
+    padding-bottom: 30px;
+}
+h2{
+    margin-bottom: 20px;
+    color: lightseagreen;
+    padding-left: 10px;
+}
+h4{
+    padding-left: 40px;
+    margin-top: 60px;
+}
+p{
+    margin-bottom: 20px;
+    width: 300px;
+    padding-left: 40px;
+    border: 0;
+}
+img{
+    width: 300px;
+    float: right;
+    margin: 0;
+    padding: 0;
+
+}
+#fotoing{
+   margin: 10px;
+   padding-right: 50px;
+   width: 300px;
+   height: 161px;
+   float: right;
+} 
+#fotoia{
+    margin: 10px;
+    padding-top: 0;
+    margin-top: 0;
+    padding-right: 50px;
+    width: 300px;
+    height: 161px;
+    float: right;
+ }
